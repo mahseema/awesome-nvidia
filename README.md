@@ -17,7 +17,7 @@ A curated list of Awesome NVIDIA hardware and software resources, specially tail
 
 - **Professional GPUs**
   - [Quadro Series](https://www.nvidia.com/en-us/design-visualization/quadro/) - Designed for professional workstations.
-  - [Tesla Series](https://www.nvidia.com/en-us/data-center/tesla/) - Optimized for deep learning and AI applications.
+  - [Data Center GPUs (*Formerly Tesla Series*) ](https://www.nvidia.com/en-us/data-center/tesla/) - Optimized for deep learning and AI applications.
 
 - **Industrial GPUs**
   - [A100](https://www.nvidia.com/en-us/data-center/a100/) - Built for AI, data analytics, and high-performance computing.
