@@ -1,4 +1,4 @@
-# Awesome-NVIDIA
+# Awesome NVIDIA
 
 A curated list of Awesome NVIDIA hardware and software resources, specially tailored for AI developers. 
 
