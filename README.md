@@ -34,6 +34,7 @@ A curated list of Awesome NVIDIA hardware and software resources, specially tail
 ## Gaming and Graphics
 - [GameWorks](https://developer.nvidia.com/gameworks) - A suite of tools and technologies for game developers.
 - [RTX Real-Time Ray Tracing](https://www.nvidia.com/en-us/geforce/technologies/rtx/) - Cutting-edge, real-time ray tracing technology.
+- [DLSS 5 Checker](https://www.dlss5.net/) - Open-source, evidence-based compatibility checker and 48-GPU matrix tracking NVIDIA DLSS 5 (3D-Guided Neural Rendering) and DLSS 4.5 feature support across desktop and laptop cards.
 
 ## Professional and Industrial Solutions
 - [DGX Systems](https://www.nvidia.com/en-us/data-center/dgx-systems/) - Advanced systems for AI and data science.
@@ -42,5 +43,6 @@ A curated list of Awesome NVIDIA hardware and software resources, specially tail
 ## Resources and Documentation
 - [NVIDIA Developer](https://developer.nvidia.com/) - Resources for developers, including documentation, SDKs, and forums.
 - [NVIDIA Blog](https://blogs.nvidia.com/) - Articles and updates on the latest in NVIDIA technology.
+- [NVIDIA DLSS 5 GPU Compatibility Dataset](https://huggingface.co/datasets/hexbuild/nvidia-dlss-5-gpu-compatibility) - MIT-licensed structured CSV/JSONL dataset covering DLSS 5 and DLSS 4.5 compatibility across 48 GPUs.
 
 Remember, this is just a starting point. You can expand each section with more products, descriptions, and relevant links. Also, make sure to regularly update the list as new NVIDIA products and software are released.
